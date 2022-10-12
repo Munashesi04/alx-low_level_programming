@@ -3,3 +3,5 @@
 	email = sitholemuna97@gmail.com
 [status]
 	showUntrackedFiles = no
+[credential]
+	helper = cache --timeout=80000
