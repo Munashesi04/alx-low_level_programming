@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665596746,,"wq"
+|2,0,1665734894,,"wq"
 :WQ
 |2,0,1665002500,,"WQ"
 ::::::::wq
@@ -66,36 +66,50 @@
 |3,0,36,0,1,0,1662843710,"}"
 
 # File marks:
-'0  14  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
-|4,48,14,0,1665596746,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
-'1  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
-|4,49,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
-'2  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
-|4,50,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
-'3  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
-|4,51,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
-'4  4  15  ~/.git/COMMIT_EDITMSG
-|4,52,4,15,1665003603,"~/.git/COMMIT_EDITMSG"
-'5  2  6  ~/.git/COMMIT_EDITMSG
-|4,53,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
-'6  2  6  ~/.git/COMMIT_EDITMSG
-|4,54,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
-'7  1  134  ~/.git/COMMIT_EDITMSG
-|4,55,1,134,1665002982,"~/.git/COMMIT_EDITMSG"
-'8  5  0  ~/.git/COMMIT_EDITMSG
-|4,56,5,0,1665002982,"~/.git/COMMIT_EDITMSG"
-'9  1  134  ~/.git/COMMIT_EDITMSG
-|4,57,1,134,1665002982,"~/.git/COMMIT_EDITMSG"
+'0  1  15  ~/.git/COMMIT_EDITMSG
+|4,48,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
+'1  14  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
+|4,49,14,0,1665596746,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
+'2  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
+|4,50,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
+'3  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,51,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+'4  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,52,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+'5  4  15  ~/.git/COMMIT_EDITMSG
+|4,53,4,15,1665003603,"~/.git/COMMIT_EDITMSG"
+'6  4  15  ~/.git/COMMIT_EDITMSG
+|4,54,4,15,1665003603,"~/.git/COMMIT_EDITMSG"
+'7  2  6  ~/.git/COMMIT_EDITMSG
+|4,55,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
+'8  2  6  ~/.git/COMMIT_EDITMSG
+|4,56,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
+'9  2  6  ~/.git/COMMIT_EDITMSG
+|4,57,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
 -'  14  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
 |4,39,14,0,1665596746,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
+-'  14  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
+|4,39,14,0,1665596746,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
+-'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
+|4,39,1,0,1665596733,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
 -'  1  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
 |4,39,1,0,1665596733,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
 -'  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
 |4,39,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
 -'  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
 |4,39,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
+|4,39,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
+|4,39,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
+|4,39,1,0,1665431119,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
+|4,39,1,0,1665431119,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
 -'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
 |4,39,1,0,1665431119,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
 -'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
@@ -108,6 +122,22 @@
 |4,39,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
 -'  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
 |4,39,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,1,0,1665430946,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,1,0,1665430946,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,1,0,1665430946,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+-'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+|4,39,1,0,1665430946,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
 -'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
 |4,39,1,0,1665430946,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
 -'  1  0  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
@@ -132,6 +162,38 @@
 |4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
 -'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
 |4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  19  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,19,0,1665085270,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
+-'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+|4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
 -'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
 |4,39,1,0,1665085245,"~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c"
 -'  1  0  ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
@@ -180,6 +242,8 @@
 |4,39,4,15,1665003603,"~/.git/COMMIT_EDITMSG"
 -'  4  15  ~/.git/COMMIT_EDITMSG
 |4,39,4,15,1665003603,"~/.git/COMMIT_EDITMSG"
+-'  4  15  ~/.git/COMMIT_EDITMSG
+|4,39,4,15,1665003603,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1665003516,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -224,106 +288,14 @@
 |4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
 -'  2  6  ~/.git/COMMIT_EDITMSG
 |4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  2  6  ~/.git/COMMIT_EDITMSG
-|4,39,2,6,1665003361,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665003320,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665003320,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665003320,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665003320,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665003320,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1665003320,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
-	*	1665596745	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
-	*	1665431123	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
-	*	1665430973	0
-	"	25	15
-	^	25	16
-	.	25	15
-	+	25	15
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
-	*	1665085265	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
-
 > ~/.git/COMMIT_EDITMSG
-	*	1665003600	0
-	"	4	15
-	^	4	16
-	.	4	15
+	*	1665734891	0
+	"	1	15
+	^	1	16
+	.	1	15
 	+	1	18
 	+	1	28
 	+	1	20
@@ -358,6 +330,35 @@
 	+	6	0
 	+	5	0
 	+	4	15
+	+	1	15
+
+> ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
+	*	1665596745	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
+	*	1665431123	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
+	*	1665430973	0
+	"	25	15
+	^	25	16
+	.	25	15
+	+	25	15
+
+> ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
+	*	1665085265	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	19	0
 
 > ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
 	*	1664944942	0
