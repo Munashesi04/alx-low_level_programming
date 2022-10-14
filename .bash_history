@@ -1232,3 +1232,14 @@ git add .
 git commit -m 'mandtasks'
 git push
 exit
+ls
+cd root/
+ls
+cd alx-low_level_programming/
+ls
+cat 0x0F-function_pointers/
+cd 0x0F-function_pointers/
+ls
+cat 0-print_name.c 
+clear
+exit
