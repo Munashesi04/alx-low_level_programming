@@ -1243,3 +1243,282 @@ ls
 cat 0-print_name.c 
 clear
 exit
+clear
+cd root 
+cd alx-low_level_programming/
+ls
+clea
+clear
+git --version
+ls
+cd 0x0F-function_pointers/
+ls
+cat 0-print_name.c 
+clear
+ls
+gcc 0-print_name.c 
+betty 0-print_name.c 
+git add .
+git commit -m 'alls tasks'
+git add a
+git add -a
+clear
+git commit -a
+git push
+git push --set-upstream origin master
+clear
+git fetch
+git rebasse feature/my_feature_branch
+git rebase feature/my_feature_branch
+git rebase feature/master_branch
+git rebase master 
+gitk --all
+clear
+git fetch
+git commit -m  'all'
+git commit -a
+git push
+clear
+git push -f -u origin master
+git push
+clear
+cd ..
+ls
+mkdir 0x10-variadic_functions
+cd 0x10-variadic_functions/
+echo 'variadicfunctions' > README.md
+ls
+git add .
+git commit -m 'task1'
+git push
+clear
+touch 0-sum_them_all.c 1-print_numbers.c 2-print_strings.c 3-print_all.c
+ls
+vi variadic_functions.h
+vi 0-sum_them_all.c 
+vi 1-print_numbers.c 
+vi 2-print_strings.c 
+vi 3-print_all.c 
+betty 0-sum_them_all.c  1-print_numbers.c 
+betty 2-print_strings.c  3-print_all.c 
+gcc 0-sum_them_all.c 
+git add .
+git commit -m 'hotfix'
+git push
+clear
+git commit -a
+git push
+exit
+lss
+ls
+git clone https://github.com/FezekaMabece/printf.git
+ls
+cd printf
+clear
+cd ..
+ls
+git add .
+git push
+clear
+cd printf
+git add .
+git commit -m 'Printf team project'
+git push
+clear
+exit
+ls
+git clone https://github.com/FezekaMabece/printf.git
+clear
+cd printf
+la
+ls
+cd .git
+ls
+clear
+cat README.md
+ls
+cd ..
+cat README.md 
+EXIT
+exit
+ls
+rm -m printf/
+rm -r printf/
+ls
+clear
+mkdir printf
+cd printf/
+git init .
+git status
+git remote -v
+git remote add origin https://github.com/FezekaMabece/printf.git
+git remote -v
+git fetch
+ls -1a
+git remote show origin
+git checkout -b master origin/master
+ls -1a
+cat README.md 
+cat _printf.c 
+clear
+ls
+vi _putchar.c
+git add .
+git commit -m 'putchar'
+git push
+ls
+rm _putchar.c 
+ls
+cd ..
+ls
+rm -r printf/
+ls
+clear
+mkdir Printf
+cd Printf/
+LS
+lls
+ls
+clear
+git init .
+git status
+git remove -v
+clear
+git remote -v
+git remote add origin https://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@github.com/https://github.com/FezekaMabece/printf.git
+git remote -v
+git fetch
+git remote -v
+git fetch
+clear
+ls
+git remote -v
+git fetch
+clear
+git remote add origin https://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@github.com/https://github.com/FezekaMabece/printf.git
+clear
+cd ..
+ls
+rm -r Printf/
+ls
+mkdir Printf
+cd Printf/
+ls
+clear
+git init .
+git status
+git remote -v
+git remote add origin https://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@github.com/FezekaMabece/printf.git
+git remote -v
+git fetch
+ls -1a
+git remote show origin
+git checkout -b master origin/master
+ls -1a
+clear
+vi _putchar.c
+git add .
+git commit -m 'putchar'
+git push
+clear
+ls
+exit
+ls
+cd Printf/
+LS
+ls
+clear
+git pull
+clear 
+ls
+git add .
+git commit -m 'task7'
+git push
+clear
+ls
+cat main.h
+exit
+ls
+cd Printf/
+LS
+ls
+rm man_3_printf 
+ls
+vi man_3_printf
+git add  .
+git commit -m 'updatedman3'
+git push
+betty man_3_printf 
+clear
+ls
+vi get_flag.c 
+betty get_flag.c 
+git add .
+git commit -m 'getflag'
+git push
+ls
+clear
+vi getprecision.c
+betty getprecision.c 
+git add .
+git commit -m 'precisiom'
+git push
+clear
+vi getsize.c
+betty getsize.c 
+git add .
+git commit -m 'size'
+git push
+ls
+vi getwidth.c
+betty getwidth.c 
+git add .
+git commit -m 'width'
+git push
+clear
+ls
+exit
+ls
+cd printf/
+ls
+git pull
+vi _putchar.c
+betty _putchar.c 
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format _putchar.c
+clear
+vi man_3_printf
+betty man_3_printf 
+vi numbers.c
+cat numbers.c 
+betty numbers.c 
+clear
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format numbers.c 
+ls
+rm _putchar.c 
+ls
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format numbers.c 
+clear
+ls
+vi numbs.c
+betty numbs.c 
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format numbs.c 
+vi precision.c
+betty precision.c 
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format precision.c 
+./printf
+cklear
+clear
+ls
+vi spec.c
+betty spec.c 
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format spec.c 
+clear
+vi _putchar.c
+betty _putchar.c 
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format _putchar.c 
+clear
+ls
+git add .
+git commit -m 'printf'
+git push
+exit

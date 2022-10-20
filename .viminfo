@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665735860,,"wq"
+|2,0,1666299584,,"wq"
 :WQ
 |2,0,1665002500,,"WQ"
 ::::::::wq
@@ -66,230 +66,391 @@
 |3,0,36,0,1,0,1662843710,"}"
 
 # File marks:
-'0  51  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,48,51,0,1665735860,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
-'1  34  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,49,34,0,1665735833,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
-'2  26  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,50,26,0,1665735807,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
-'3  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,51,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
-'4  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,52,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
-'5  1  5  ~/.git/COMMIT_EDITMSG
-|4,53,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
-'6  1  15  ~/.git/COMMIT_EDITMSG
-|4,54,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
-'7  14  0  ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
-|4,55,14,0,1665596746,"~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c"
-'8  13  0  ~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c
-|4,56,13,0,1665431125,"~/alx-low_level_programming/0x0E-structures_typedef/_putchar.c"
-'9  25  15  ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
-|4,57,25,15,1665430976,"~/alx-low_level_programming/0x0E-structures_typedef/dog.h"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1666299584,"~/.git/MERGE_MSG"
+'1  38  0  /printf/_putchar.c
+|4,49,38,0,1666225344,"/printf/_putchar.c"
+'2  142  0  /printf/spec.c
+|4,50,142,0,1666225255,"/printf/spec.c"
+'3  30  0  /printf/precision.c
+|4,51,30,0,1666224863,"/printf/precision.c"
+'4  82  0  /printf/numbs.c
+|4,52,82,0,1666224601,"/printf/numbs.c"
+'5  130  0  /printf/numbers.c
+|4,53,130,0,1666224371,"/printf/numbers.c"
+'6  34  40  /printf/man_3_printf
+|4,54,34,40,1666224290,"/printf/man_3_printf"
+'7  38  0  /printf/_putchar.c
+|4,55,38,0,1666223997,"/printf/_putchar.c"
+'8  37  0  /Printf/getwidth.c
+|4,56,37,0,1666167160,"/Printf/getwidth.c"
+'9  29  0  /Printf/getsize.c
+|4,57,29,0,1666167082,"/Printf/getsize.c"
 
 # Jumplist (newest first):
--'  51  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,39,51,0,1665735860,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,39,1,0,1665735843,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
--'  34  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,34,0,1665735833,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  34  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,34,0,1665735833,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,1,0,1665735813,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,1,0,1665735813,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,26,0,1665735807,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,26,0,1665735807,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,26,0,1665735807,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,26,0,1665735807,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1665735787,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1665735787,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1665735787,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1665735787,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1665735777,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1665735760,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1665735748,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1665735734,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1665735184,"~/.git/COMMIT_EDITMSG"
--'  1  15  ~/.git/COMMIT_EDITMSG
-|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
--'  1  15  ~/.git/COMMIT_EDITMSG
-|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
--'  1  15  ~/.git/COMMIT_EDITMSG
-|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
--'  1  15  ~/.git/COMMIT_EDITMSG
-|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
--'  1  15  ~/.git/COMMIT_EDITMSG
-|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
--'  1  15  ~/.git/COMMIT_EDITMSG
-|4,39,1,15,1665734894,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1666299584,"~/.git/MERGE_MSG"
+-'  38  0  /printf/_putchar.c
+|4,39,38,0,1666225344,"/printf/_putchar.c"
+-'  38  0  /printf/_putchar.c
+|4,39,38,0,1666225344,"/printf/_putchar.c"
+-'  1  0  /printf/_putchar.c
+|4,39,1,0,1666225328,"/printf/_putchar.c"
+-'  1  0  /printf/_putchar.c
+|4,39,1,0,1666225328,"/printf/_putchar.c"
+-'  142  0  /printf/spec.c
+|4,39,142,0,1666225255,"/printf/spec.c"
+-'  142  0  /printf/spec.c
+|4,39,142,0,1666225255,"/printf/spec.c"
+-'  142  0  /printf/spec.c
+|4,39,142,0,1666225255,"/printf/spec.c"
+-'  142  0  /printf/spec.c
+|4,39,142,0,1666225255,"/printf/spec.c"
+-'  1  0  /printf/spec.c
+|4,39,1,0,1666224955,"/printf/spec.c"
+-'  1  0  /printf/spec.c
+|4,39,1,0,1666224955,"/printf/spec.c"
+-'  1  0  /printf/spec.c
+|4,39,1,0,1666224955,"/printf/spec.c"
+-'  1  0  /printf/spec.c
+|4,39,1,0,1666224955,"/printf/spec.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  30  0  /printf/precision.c
+|4,39,30,0,1666224863,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  1  0  /printf/precision.c
+|4,39,1,0,1666224845,"/printf/precision.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  82  0  /printf/numbs.c
+|4,39,82,0,1666224601,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  1  0  /printf/numbs.c
+|4,39,1,0,1666224577,"/printf/numbs.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  130  0  /printf/numbers.c
+|4,39,130,0,1666224371,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
+-'  1  0  /printf/numbers.c
+|4,39,1,0,1666224337,"/printf/numbers.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1666299582	0
+	"	1	0
+
+> /printf/_putchar.c
+	*	1666225341	0
+	"	38	0
+	^	38	1
+	.	38	0
+	+	38	0
+
+> /printf/spec.c
+	*	1666225252	0
+	"	142	0
+	^	142	1
+	.	142	0
+	+	142	0
+
+> /printf/precision.c
+	*	1666224859	0
+	"	30	0
+	^	30	1
+	.	30	0
+	+	30	0
+
+> /printf/numbs.c
+	*	1666224599	0
+	"	82	0
+	^	82	1
+	.	82	0
+	+	82	0
+
+> /printf/numbers.c
+	*	1666224358	0
+	"	130	0
+	^	130	1
+	.	130	0
+	+	130	0
+
+> /printf/man_3_printf
+	*	1666224281	0
+	"	34	40
+	^	34	41
+	.	34	40
+	+	34	54
+	+	1	26
+	+	34	40
+
+> /Printf/getwidth.c
+	*	1666167157	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> /Printf/getsize.c
+	*	1666167079	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> /Printf/getprecision.c
+	*	1666166987	0
+	"	44	0
+	^	44	1
+	.	44	0
+	+	44	0
+
+> /Printf/get_flag.c
+	*	1666166886	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	1	303
+	+	34	0
+
+> /Printf/man_3_printf
+	*	1666166685	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	149	12
+	+	1	12
+
+> /Printf/_printf.c
+	*	1666161218	0
+	"	59	0
+	^	59	1
+	.	59	0
+	+	59	0
+
+> /Printf/main.h
+	*	1666161028	0
+	"	219	5
+	^	219	6
+	.	219	5
+	+	219	5
+
+> /Printf/getflags.c
+	*	1666153859	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
+
+> /Printf/rev.c
+	*	1666109203	0
+	"	32	0
+	^	32	1
+	.	32	0
+	+	32	0
+
+> /Printf/_putchar.c
+	*	1666032807	0
+	"	38	0
+	^	38	1
+	.	38	0
+	+	38	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1665736061	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	18
+	+	1	28
+	+	1	20
+	+	1	12
+	+	1	0
+	+	1	166
+	+	1	133
+	+	1	0
+	+	1	15
+	+	1	22
+	+	1	66
+	+	1	133
+	+	1	134
+	+	1	15
+	+	1	0
+	+	1	133
+	+	1	19
+	+	1	35
+	+	1	19
+	+	1	66
+	+	1	19
+	+	1	18
+	+	1	66
+	+	1	133
+	+	1	159
+	+	1	134
+	+	1	0
+	+	2	7
+	+	9	0
+	+	8	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	4	15
+	+	1	2
 
 > ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
 	*	1665735858	0
@@ -325,47 +486,6 @@
 	^	12	6
 	.	12	5
 	+	12	5
-
-> ~/.git/COMMIT_EDITMSG
-	*	1665735183	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	18
-	+	1	28
-	+	1	20
-	+	1	12
-	+	1	0
-	+	1	166
-	+	1	133
-	+	1	0
-	+	1	15
-	+	1	22
-	+	1	66
-	+	1	133
-	+	1	134
-	+	1	15
-	+	1	0
-	+	1	133
-	+	1	19
-	+	1	35
-	+	1	19
-	+	1	66
-	+	1	19
-	+	1	18
-	+	1	66
-	+	1	133
-	+	1	159
-	+	1	134
-	+	1	0
-	+	2	7
-	+	9	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	15
-	+	1	5
 
 > ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
 	*	1665596745	0
@@ -925,124 +1045,3 @@
 	^	20	1
 	.	20	0
 	+	20	0
-
-> ~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c
-	*	1663631362	0
-	"	17	0
-	^	17	1
-	.	17	0
-	+	17	0
-
-> ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
-	*	1663631080	0
-	"	11	18
-	^	11	19
-	.	11	18
-	+	11	18
-
-> ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
-	*	1663630933	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
-
-> ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
-	*	1663371383	0
-	"	36	0
-	^	36	1
-	.	36	0
-	+	27	0
-	+	36	0
-
-> ~/alx-low_level_programming/0x03-debugging/main.h
-	*	1663371248	0
-	"	11	18
-	^	11	19
-	.	11	18
-	+	1	211
-	+	11	18
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/101-print_number.c
-	*	1663367278	0
-	"	31	0
-	^	31	1
-	.	31	0
-	+	31	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/100-prime_factor.c
-	*	1663367224	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/10-print_triangle.c
-	*	1663357212	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/9-fizz_buzz.c
-	*	1663357130	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/8-print_square.c
-	*	1663357034	0
-	"	24	0
-	^	24	1
-	.	24	0
-	+	24	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/7-print_diagonal.c
-	*	1663356941	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/6-print_line.c
-	*	1663356854	0
-	"	17	0
-	^	17	1
-	.	17	0
-	+	17	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/5-more_numbers.c
-	*	1663356766	0
-	"	24	0
-	^	24	1
-	.	24	0
-	+	24	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/4-print_most_numbers.c
-	*	1663356318	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/3-print_numbers.c
-	*	1663356216	0
-	"	15	0
-	^	15	1
-	.	15	0
-	+	15	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/2-mul.c
-	*	1663356102	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/1-isdigit.c
-	*	1663356003	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
